@@ -1,0 +1,12 @@
+{
+  "name": "programs-201",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js"
+  },
+  "author": "likitha tadakala <likithatadakala@gmail.com>",
+  "license": "ISC",
+  "description": "first app"
+
+}
